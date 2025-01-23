@@ -19,7 +19,7 @@ function Promotion() {
           </p>
           <div className="">
             <div className="">
-              <button className="text-white bg-blue-700 px-4 py-2 rounded-full">
+              <button className="text-white font-bold bg-blue-700 px-4 py-2 rounded-full">
                 Create It
               </button>
               <div className="">
