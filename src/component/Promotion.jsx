@@ -22,8 +22,8 @@ function Promotion() {
               <button className="text-white font-bold bg-blue-700 px-4 py-2 rounded-full">
                 Create It
               </button>
-              <div className="">
-                
+              <div className="">hello
+                <img src="" alt="" />
               </div>
             </div>
           </div>
